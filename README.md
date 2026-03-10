@@ -33,12 +33,14 @@ streamlit run app.py
 ![Mood](images/mood.png)
 
 
-
-## Author
-Tirth Patel
-B.Tech AI & Data Science
-
-
-
 4. ### AI Chatbot
 ![Chatbot](images/chatbot.png)
+
+
+
+**## Author
+Tirth Patel
+B.Tech AI & Data Science**
+
+
+
